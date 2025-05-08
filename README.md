@@ -1,1 +1,1 @@
-# vector-add-rocc
+# A Simple Vector Add ROCC Accelerator 
