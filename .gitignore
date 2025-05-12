@@ -1,2 +1,5 @@
 .metals
 .vscode
+target
+*.o
+*.riscv
